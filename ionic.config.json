@@ -1,0 +1,7 @@
+{
+  "name": "audio-player-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
